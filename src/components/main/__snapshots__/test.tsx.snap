@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Main /> should make a snapShot 1`] = `
+<main>
+   
+  <h1>
+    react avancado
+  </h1>
+   
+</main>
+`;
