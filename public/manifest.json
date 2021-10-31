@@ -1,0 +1,23 @@
+{
+    "name": "React Avancado",
+    "short_name": "App",
+    "icons": [
+      {
+        "src": "/reactJS.png",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "/img2.jpg",
+        "sizes": "384x384",
+        "type": "image/png"
+      }
+    ],
+    "theme_color": "#06092b",
+    "background_color": "#06092b",
+    "start_url": "/",
+    "display": "fullscreen",
+    "orientation": "portrait"
+  }
+  
