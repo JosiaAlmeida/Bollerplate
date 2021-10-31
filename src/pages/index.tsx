@@ -7,11 +7,8 @@ type Props = {
   title: string
 }
 
-export default function Home({title ="React Avancado"}:Props) {
+export default function Home({ title = "React Avancado" }: Props) {
   return (
-    <div className={styles.container}>
-      <h1>{title}</h1>
-      <Main />
-    </div>
+    <Main />
   )
 }
